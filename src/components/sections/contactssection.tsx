@@ -19,7 +19,7 @@ export function ContactsSection() {
 
                 <div className="flex flex-col justify-center text-left">
                     <h2 className="text-3xl sm:text-4xl md:text-5xl font-extrabold mb-4 drop-shadow-xl">
-                        Let's get in touch!
+                        Let&aposs get in touch!
                     </h2>
 
                     <p className="text-base sm:text-lg md:text-xl max-w-md mb-8 leading-relaxed drop-shadow">
