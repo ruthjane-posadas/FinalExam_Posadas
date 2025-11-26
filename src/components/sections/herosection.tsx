@@ -29,7 +29,7 @@ export function HeroSection() {
                 </h3>
 
                 <p className="text-base sm:text-lg md:text-xl max-w-2xl mx-auto leading-relaxed">
-                    I&aposm Ruru, an animation student from Jose Rizal University. <br />
+                    I am Ruru, an animation student from Jose Rizal University. <br />
                     From traditional & digital illustration, 3D modelling to 3D animation, <br />
                     I love creating and experiencing the world of art.
                 </p>

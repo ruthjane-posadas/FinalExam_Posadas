@@ -23,7 +23,7 @@ export function AboutSection() {
                     </h2>
 
                     <p className="text-base sm:text-lg leading-relaxed mb-8 drop-shadow">
-                        Hi, I&aposm Ruth, sometimes Ruru! I&aposm an illustrator and animator based in the Philippines.
+                        Hi, I am Ruth, sometimes Ruru! I am an illustrator and animator based in the Philippines.
                         In my downtimes, my hobbies include gaming, watching films, series, and anime.
                         I also like reading e-books and Japanese comics (mangas).
                     </p>
